@@ -13,8 +13,11 @@ The script runs and you can now chat with it. While chatting you can give variou
 
 ### Commands ###
 ```#wiki name``` - gives the wikipedia entry for name
+
 ```#movie movie_name``` - gives the details about the movie
+
 ```#yomomma``` - gives a yomomma joke
+
 ```#chuck``` - gives a Chuck Norris joke
 
 ### Todo ###
