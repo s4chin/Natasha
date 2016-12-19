@@ -6,8 +6,6 @@ import cleverbot
 import requests
 import wikipedia
 
-from lxml import etree
-
 # Fix to remove requests error, saw on SO url
 # http://stackoverflow.com/questions/19105255/praw-failed-to-parse-cpython-sys-version-when-creating-reddit-object
 sys.version = '2.7.3 (default, Apr 12 2012, 14:30:37) [MSC v.1500 32 bit (Intel)]'
